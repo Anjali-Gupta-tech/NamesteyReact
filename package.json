@@ -1,0 +1,28 @@
+{
+  "name": "namesteyreact",
+  "version": "1.0.0",
+  "description": "This is NamesteyReact by Anjali gupta",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http"
+  },
+  "keywords": [
+    "react",
+    "namesteyReact"
+  ],
+  "author": "Anjali Gupta",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "parcel": "^2.15.4",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+  
+}
