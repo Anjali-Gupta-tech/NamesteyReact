@@ -1,21 +1,17 @@
-const Shimmer = () => {
+const Shimmer = () =>{
   return (
-    <div className="shimmer-container">
-      <div className="sim-Cards">cards</div>
-      <div className="sim-Cards">cards</div>
-      <div className="sim-Cards">cards</div>
-      <div className="sim-Cards">cards</div>
-      <div className="sim-Cards">cards</div>
-      <div className="sim-Cards">cards</div>
-      <div className="sim-Cards">cards</div>
-      <div className="sim-Cards">cards</div>
-      <div className="sim-Cards">cards</div>
-      <div className="sim-Cards">cards</div>
-      <div classame="sim-Cards">cards</div>
-      <div className="sim-Cards">cards</div>
-      <div className="sim-Cards">cards</div>
-      <div className="sim-Cards">cards</div>
-      <div className="sim-Cards">cards</div>
+    <div className=" flex flex-wrap justify-between  ">
+     < div className="w-50 bg-gray-100 m-4 h-60"></div>
+     < div className="w-50 bg-gray-100 m-4 h-60"></div>
+     < div className="w-50 bg-gray-100 m-4 h-60"></div>
+     < div className="w-50 bg-gray-100 m-4 h-60"></div>
+     < div className="w-50 bg-gray-100 m-4 h-60"></div>
+     < div className="w-50 bg-gray-100 m-4 h-60"></div>
+     < div className="w-50 bg-gray-100 m-4 h-60"></div>
+     < div className="w-50 bg-gray-100 m-4 h-60"></div>
+     < div className="w-50 bg-gray-100 m-4 h-60"></div>
+     < div className="w-50 bg-gray-100 m-4 h-60"></div>
+      
     </div>
   );
 };
