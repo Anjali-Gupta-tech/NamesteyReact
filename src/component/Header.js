@@ -15,7 +15,7 @@ const Header = () => {
         <ul className="flex m-5 space-x-7  ">
           <li>online Status:{onlineStatus?"✅":"🔴"}</li>
           <li className=" hover:bg-orange-300"> 
-            <Link to="/home">Home</Link></li>
+            <Link to="/">Home</Link></li>
           <li  className=" hover:bg-orange-300">
             <Link to="/about">About</Link>
           </li>
